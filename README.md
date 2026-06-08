@@ -27,7 +27,7 @@ No accounts. No cloud. No tracking. Everything stays on your device.
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/mindspace.git
+git clone https://github.com/aranamanj/mindspace
 cd mindspace
 flutter pub get
 flutter run
