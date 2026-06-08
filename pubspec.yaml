@@ -22,3 +22,12 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/mindspace_logo_1024.png
+
+flutter_native_splash:
+  color: "#6B9EFF"
+  image: assets/mindspace_logo_1024.png
+  android_12:
+    color: "#6B9EFF"
+    image: assets/mindspace_logo_1024.png
